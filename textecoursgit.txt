@@ -1,2 +1,6 @@
 allo
+<<<<<<< HEAD
 ngkdnmhklnkhmng
+=======
+bye
+>>>>>>> 77e90251af77d75b123059c104b0994b000ee258
